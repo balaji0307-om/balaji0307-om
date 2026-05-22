@@ -1,10 +1,8 @@
-# Hi 👋, I'm Bala Ji
+# Hi 👋 I'm Balaji
 
-🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast
+### Frontend Developer | React.js | MERN Stack Enthusiast
 
-Passionate about building scalable web applications, AI-powered platforms, and modern full-stack solutions.
-
----
+I build modern web applications with clean UI, responsive design, and real-world functionality.
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +74,7 @@ https://weather-forecast-ui.onrender.com
 ## 📫 Connect With Me
 
 - LinkedIn:
-https://linkedin.com/
+https://www.linkedin.com/in/bala-ji-609a59186/
 
 - GitHub:
 https://github.com/balaji0307-om
@@ -85,3 +83,11 @@ https://github.com/balaji0307-om
 
 ## ⚡ Fun Fact
 I enjoy building AI-powered applications and solving real-world problems through code.
+
+---
+
+## 📊 GitHub Stats
+
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji0307-om&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji0307-om&layout=compact&theme=tokyonight)
