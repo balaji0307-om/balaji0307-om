@@ -87,6 +87,6 @@ I enjoy building AI-powered applications and solving real-world problems through
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji0307-om&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaji0307-om&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji0307-om&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji0307-om&layout=compact&langs_count=8&theme=radical"/>
