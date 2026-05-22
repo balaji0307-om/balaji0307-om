@@ -83,10 +83,3 @@ https://github.com/balaji0307-om
 
 ## ⚡ Fun Fact
 I enjoy building AI-powered applications and solving real-world problems through code.
-
----
-
-## 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaji0307-om&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji0307-om&layout=compact&langs_count=8&theme=radical"/>
