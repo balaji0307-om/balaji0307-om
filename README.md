@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;MERN+Stack+Enthusiast;Open+Source+Learner" />
+</p>
+
 # Hi 👋 I'm Balaji
 
 ### Frontend Developer | React.js | MERN Stack Enthusiast
