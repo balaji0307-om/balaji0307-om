@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋, I'm Bala Ji
 
-<!--
-**balaji0307-om/balaji0307-om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications, AI-powered platforms, and modern full-stack solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- FastAPI
+- Node.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Tools & Technologies
+- Docker
+- Git & GitHub
+- Render
+- VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Interview Preparation Platform
+AI-powered mock interview platform with Gemini API integration.
+
+🔗 Live Demo:
+https://ai-interview-frontend-li9l.onrender.com
+
+---
+
+### 💬 AI ChatBot
+Real-time AI chatbot with modern UI and intelligent responses.
+
+🔗 Live Demo:
+https://ai-chatbot-u0p2.onrender.com
+
+---
+
+### 📰 NewsHub
+Responsive news application using REST APIs.
+
+🔗 Live Demo:
+https://newshub-frontend-r1ir.onrender.com
+
+---
+
+### 🌦️ Weather Forecast App
+Weather forecasting web application with clean UI.
+
+🔗 Live Demo:
+https://weather-forecast-ui.onrender.com
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- System Design
+- Advanced Backend Development
+- Cloud & DevOps
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:
+https://linkedin.com/
+
+- GitHub:
+https://github.com/balaji0307-om
+
+---
+
+## ⚡ Fun Fact
+I enjoy building AI-powered applications and solving real-world problems through code.
